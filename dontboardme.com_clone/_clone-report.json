@@ -1,0 +1,12 @@
+{
+  "start": "https://dontboardme.com/",
+  "out": "C:\\Users\\tolga\\OneDrive\\Masaüstü\\craft\\dontboardme.com_clone",
+  "entry": "index.html",
+  "version": "2.0.0",
+  "pages": 17,
+  "assets": 64,
+  "written": 25,
+  "failures": [],
+  "maxPagesReached": false,
+  "aborted": false
+}

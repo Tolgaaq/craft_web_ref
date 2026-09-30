@@ -1,0 +1,12 @@
+{
+  "start": "https://buckssauce.com/",
+  "out": "C:\\Users\\tolga\\OneDrive\\Masaüstü\\craft\\buckssauce.com_clone",
+  "entry": "index.html",
+  "version": "2.0.0",
+  "pages": 1,
+  "assets": 0,
+  "written": 1,
+  "failures": [],
+  "maxPagesReached": false,
+  "aborted": false
+}
