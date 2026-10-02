@@ -1,0 +1,12 @@
+{
+  "start": "https://qridian.com/",
+  "out": "C:\\Users\\tolga\\site-clones\\qridian.com_clone",
+  "entry": "index.html",
+  "version": "2.0.0",
+  "pages": 19,
+  "assets": 122,
+  "written": 31,
+  "failures": [],
+  "maxPagesReached": false,
+  "aborted": false
+}
